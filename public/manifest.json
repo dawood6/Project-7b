@@ -1,29 +1,29 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Timer App",
+  "name": "Timer App By Dawood Sadiq",
   "icons": [
     {
-      "src": "quiz_128x128.png",
+      "src": "logo128x128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "quiz_1_144x144.png",
+      "src": "logo144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "quiz_2_152x152.png",
+      "src": "logo152x152.png",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "quiz_3_192x192.png",
+      "src": "logo192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "quiz_4_256x256.png",
+      "src": "logo256x256.png",
       "sizes": "256x256",
       "type": "image/png"
     }
